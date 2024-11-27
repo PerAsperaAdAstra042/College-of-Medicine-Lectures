@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+title: College of Medicine Lectures
+description: Lectures for College of Medicine, written by me in clean Org mode.
+plugins:
+- jekyll-remote-theme
