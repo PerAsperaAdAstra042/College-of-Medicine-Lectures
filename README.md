@@ -15,6 +15,6 @@ These lectures are free for use for anyone, as they are licensed under the GNU F
 
 ```
 
-See file [LICENSE](./LICENSE) (or [LICENSE.html](./LICENSE.html)) for more details.
+See file [LICENSE](./LICENSE) (or [LICENSE.md](./LICENSE.html)) for more details.
 
 
