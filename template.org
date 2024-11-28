@@ -2,3 +2,7 @@
 #+HTML_DOCTYPE: html5
 #+AUTHOR: Per Aspera Ad Astra
 #+OPTIONS: author:nil date:nil timestamp:nil ^:nil
+
+* Key Terms:
+
+* Questions:
