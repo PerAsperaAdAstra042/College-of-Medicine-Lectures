@@ -1,0 +1,168 @@
+#+title: Introduction To Human Anatomy
+#+HTML_DOCTYPE: html5
+#+AUTHOR: Per Aspera Ad Astra
+#+OPTIONS: author:nil date:nil timestamp:nil ^:nil
+
+* What Is Anatomy?
+*Human anatomy* (generally known as "Anatomy") is the study of the structure and composition of the human body. The word is derived from the Ancient Greek Word "ἀνατομή" (/anatomḗ/), meaning to cut up or dissect. Anatomy in general studies the components and internal structures of organisms, and is one of the oldest sciences in human history.
+
+In the past, it was commonplace to dissect humans, mostly deceased, in order to study anatomy. However, it was a risky practice and used to be heavily outlawed in the medieval times. In modern times, advancements in technology have allowed for the study of the human body without dissection, leading to the rise of branches such as *radiology* which focus on using imaging techniques to view the inside of the human body.
+
+* Branches Of Anatomy:
+** Microscopic Anatomy:
+The study of structures that are too small to see with the naked eye. Sub-branches include:
+- /Cytology/: The anatomy of cells.
+- /Histology/: The anatomy of *tissues*, groups of specialized cells and their products which work together to perform a certain task.
+** Gross Anatomy/Macroscopic Anatomy:
+The study of structures that are visible to the naked eye. Sub-branches include:
+- /Regional Anatomy/: The anatomy of a specific region in the body, including both superficial and internal features.
+- /Systemic Anatomy/: The anatomy of the major organ systems in the body.
+** Miscellaneous Anatomy Branches:
+- /Embryology/: The anatomy of embryos and their developement.
+- /Comparative Anatomy/: The anatomy of different animals, usually in the perspective of comparisions.
+- /Clinical Anatomy/: The anatomy of features/structures that may undergo change due to illness.
+- /Surgical Anatomy/: Straight up dissecting bodies to learn about landmarks necessary for surgical procedures.
+
+* Variation and Anatomy:
+Not all humans are the same, and while most things are true about most people, there are outliers. Most people have two kidneys, but some do not. The majority of anatomical variations in people occur in veins, and the least variations occur in nerves. Such variations must be examined carefully during diagnosis for more reasons than one.
+
+* The Structure Of Life:
+- /Organism/: Composed of organ systems.
+  - /Organ System/: Composed of organs that carry out broad functions of the organism.
+    - /Organ/: Any structure with definite boundaries distinguishing it from other structures/organs. It is composed of many tissues that work together to carry out a specific function.
+      - /Tissue/: A group of cells and cell products that form a region of an organ and carry out a specific function.
+        - /Cell/: The smallest living unit of an organism containing organelles and the like.
+          - /Organelle/: Microscopic structures made of man molecules in a cell that perform the cell's individual functions.
+            - /Molecule:/ Particles made of atoms joined by bonds. Large molecules such as DNA are called macromolecules.
+
+* The Human Organ Systems:
+** Integumentary System:
+Protects the body against the environment and helps maintain homeostasis, alongside providing the sense of touch. Organs include:
+- Skin
+- Hair
+- Nails
+- Various Glands (such as Cutaneous Glands)
+** Skeletal System:
+Provides support for the body, protects various organs and tissues, forms blood, stores minerals, and helps with movement. Organs include:
+- Bones
+- Cartileges
+- Ligaments
+** Muscular System:
+Provides the ability to move (locomotion), produces heat, maintains stability, and controls various body openings. Organs include:
+- Skeletal Muscles
+** Nervous System:
+Responsible for directing stimuli, forming responses to them, thinking, internal communication, motor (movement) control, coordination, and sensing the world. Organs include:
+- Brain
+- Spinal Cord
+- Various nerves and ganglia
+** Endocrine System:
+Reponsible for long term changes in the body and other organ system activies. Produces hormones, maintains homeostasis, and is responsible for internal chemical communication and coordination. Organs include:
+- Pituitary Gland
+- Pineal Gland
+- Thyroid Gland
+- Parathyroid Glands
+- Adrenal Gland
+- Pancreas
+- Thymus
+- Testes and Ovaries
+** Lymphatic System:
+Responsible for regulating tissue fluid and defending against infection/disease. Organs include:
+- Lymph nodes
+- Lymphatic vessels
+- Thymus
+- Spleen
+- Tonsils
+** Respiratory System:
+Responsible for respiration and delivering oxygen to body, delivering carbon dioxide out of the body, maintaining the acidity of blood, and for making sounds and communication. Organs include:
+- Lungs
+- Nose
+- Pharynx
+- Trachea
+- Bronci
+- Larynx
+** Urinary System:
+Responsible for excreting excess water, waste, regulating blood pressure, detoxification, and more. Organs include:
+- Kidneys
+- Ureters
+- Urinary Bladder
+- Urethra
+** Digestive System:
+Responsible for processing food intake, absorping nutrients, and supplying body with energy, alongside waste removal of unprocessable components from the body. Organs include:
+- Stomach
+- Liver
+- Small intestine
+- Large intestine
+- Teeth
+- Tongue
+- Salivary glands
+- Gall-bladder
+- Pancreas
+- Esophagus
+** Cardiovascular System:
+Responsible for transportation and distribution of nutrients, wastes, hormones, immune cells, and more via blood throughout the body. Organs include:
+- Heart
+- Numerous blood vessels
+** Reproductive System:
+Responsible for producting sex cells and hormones necessary for reproduction, supporting fetal developement, lactation, birth, etc. Organs include:
+- Testes (male)
+- Epididymis (male)
+- Spermatic ducts (male)
+- Seminal vesicles (male)
+- Prostate gland (male)
+- Bulbourethral gland (male)
+- Penis (male)
+- Ovaries (female)
+- Uterine tubes (female)
+- Uterus (female)
+- Mammary glands (female)
+- Vagina (female)
+
+* Positioning Terminology:
+The anatomical position where the majority of discussion and nomenclature for the body structure is the following:
+- The person is /erect/ (upright) and facing directly forward with the head level.
+- Upper limbs (shoulders, hands, etc.) by the sides and the palms face forward.
+- Lower limbs (legs and the like) are parallel and feet are flat on the floor facing forward.
+
+There are many positional terms crucial to understand for human anatomy:
+- /Supine/ position: Lying on the back, arms by side, face and trunk facing up.
+- /Prone/ position: Lying on the face and chest.
+- /Lithotomy/ position: Lying on the back with legs up and feet supported in straps.
+
+There are also anatomical planes, which are imaginary divisions that separate the body:
+- /Sagittal/ plane: Vertical plane that divides the body into left and right portions. The /medial sagittal plan/ (midsagittal) passes through the middle of the body and divides it equally. Other planes parallel to the midsagittal plane are known as /parasagittal/ planes.
+- /Coronal/ plane: Vertical plane at a right angle to the midsagittal plane, dividng the body into /anterior/ (front) and /posterior/ (back) parts.
+- /Transverse/ plane: Horizontal plane of division at right angles to midsagittal and coronal planes, dividng the body into /superior/ (upper) and /inferior/ (lower) parts.
+- /Oblique/ plane: Any plane that is not one of the above is oblique and does not pass the body at a right angle to any other plane.
+
+Some important terminology for positioning of certain things:
+- /Anterior (ventral)/: Near the front.
+- /Posterior (dorsal)/: Near the back.
+- /Superior/: Higher.
+- /Inferior/: Lower.
+- /Medial/: Towards the median plane/middle.
+- /Lateral/: Away from the median plane/middle.
+- /Proximal/: Close to (or in proximity of) the roots of limbs.
+- /Distal/: Away from (or distant to) the roots of limbs.
+- /Superficial/: Situated near the surface (surface level).
+- /Deep/: Deep. Beneath the surface.
+- /External and Internal/: Consult a dictionary.
+- /Ipsilateral/: On the same side of the body's midline as another structure (i.e. sharing the same middle line as another structure).
+- /Contralateral/: On the opposite side of the body's midline from another structure.
+
+* Movement Terminology:
+Movement has as much terminology as positioning in the field of anatomy. Here are the major terms:
+- /Flexion/: Decreasing the angle between bones or parts of the body. Usually involves movement in the anterior direction.
+  - /Dorsiflexion/: Flexion of ankle joint lifing foot above the ground.
+  - /Plantarflexion/: Bends foot and toes towards the ground.
+- /Extension/: Increasing the angle between bones ort parts of the body. Usually involves movement in the posterior direction. (The knee joint is an exception).
+- /Lateral Flexion/: Movement along the frontal plane sideways to the left or right, involves the intervertebral (spinal) joints.
+- /Hyperextension/: Extension beyond the anatomical position.
+- /Abduction/: Moving away from the medial plane.
+- /Adduction/: Moving twards the medial plane.
+- /Rotation/: Rotating around the long axis.
+ - /Medial Rotation/: Rotation resulting in the anterior surface facing medially. sometimes known as internal rotation.
+- /Lateral Rotation/: Rotation resulting in the anterior surface facing laterally.
+
+* Body Cavities:
+
+TO FINISH LATER
